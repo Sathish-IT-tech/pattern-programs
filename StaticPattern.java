@@ -1,6 +1,6 @@
 // Program for Static patterns
 import java.util.Scanner;
-class Static Pattern{
+class StaticPattern{
   public static void main(String[]args){
     Scanner scan=new Scanner(System.in);
     System.out.println("enter the number of rows you want to print");
